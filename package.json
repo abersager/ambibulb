@@ -1,0 +1,19 @@
+{
+  "name": "ambibulb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-extr-thief": "^2.3.4",
+    "extract-colors": "^4.0.2",
+    "get-pixels": "^3.3.3",
+    "jimp": "^0.22.10",
+    "png-to-jpeg": "^1.0.1",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
