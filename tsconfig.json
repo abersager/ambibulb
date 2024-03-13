@@ -4,7 +4,7 @@
   },
   "files": [
     "index.ts",
-    "color-extr-thief.d.ts"
+    "global.d.ts"
   ],
 "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
